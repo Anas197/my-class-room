@@ -1,0 +1,195 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+*  {
+	box-sizing: border-box;
+  }
+
+
+
+  
+
+header {
+    align-items: center;
+    background-color: #060c66;
+    display: flex;
+	padding: 10px 2%;	 
+}
+
+.logo {
+    margin-right: auto; 
+}
+
+.logo img {
+    padding-left: 18px;
+    width: 45px;
+    width: 60px;
+}
+
+
+
+.navbar{
+    display: none;
+    list-style: none;
+    display: inline-block;
+}
+
+.navbar .active.Way {
+    color: #5c757c;
+    border-bottom: 1px #8da1a7 solid;
+    padding-bottom: 5px;  
+}
+
+.navbar .Way:hover {
+    color: #8da1a7;
+    border-bottom: 1px #8da1a7 solid;
+    padding-bottom: 5px; 
+}
+
+.navbar li {
+    display: inline-block;
+    padding: 0 20px;
+}
+
+.navbar a {
+    color: #ffffff;
+    font-family: Arial;
+    text-decoration: none;
+}
+
+
+/* Hiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii*/
+
+
+/* styling our main content */
+.way {
+	height: 340px;
+	background-image: url('../img/main.jpg');
+	background-size: cover;
+	padding: 1px;
+	margin: 10px;
+	
+  }
+   
+  /* hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh*/
+
+  
+    
+ p{
+	 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ }
+ h5{
+	 font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+ }
+
+  
+
+
+
+/* basic site sections */
+.site-section   {
+	padding-bottom: 50px;
+	padding-top: 50px;
+	position: relative;
+  }
+   
+  .site-section-inside   {
+	width: 80%;
+	max-width: 1200px;
+	margin: 0 auto;
+  }
+  .section-header {
+	text-align: center;
+	margin-bottom: 40px;
+  }
+  .section-header h2  {
+	font-size: 30px;
+	letter-spacing: 2px;
+	text-transform: uppercase;
+	font-weight: 300;
+	color: #777;
+  }
+  
+  /* feature boxes */
+  .feature-box   {
+	display: inline-block;
+	width: 33%;
+	padding: 20px 30px;
+  }
+  .feature-box img  {
+	margin-bottom: 12px;
+	width: 80px;
+  }
+  .feature-box h5   {
+	font-size: 20px;
+	color: #999;
+	text-transform: uppercase;
+	font-weight: 300;
+	letter-spacing: 2px;
+	margin: 0;
+  }
+  
+
+/*                                                   footer                       */
+footer   {
+	background: #060c66;
+	color: white;
+	padding: 30px;
+	text-align: center;
+	border-color: black;
+	
+  }
+  footer img   {
+	display: block;
+	border-radius: 5px;
+	width: 60px;
+	margin: 0 auto 10px;
+  }
+
+  
+  
+  
+  
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
